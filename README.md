@@ -1,7 +1,8 @@
 # Andrea0115
 # Andrea0115
 
-Hi! I’m a Full-Stack Web Developer, passionate about building high-performance, scalable web applications. 
+Hi! 
+I’m a Full-Stack Web Developer, passionate about building high-performance, scalable web applications. 
 Whether you're launching a new project or optimizing an existing one, I’m here to bring your ideas to life with clean, maintainable code and efficient solutions.
 
 Technologies & Skills:
@@ -23,9 +24,3 @@ Other Skills:
 JavaScript (ES6+) – Creating fast, high-performance applications.
 Git – Version control for smooth collaboration.
 RESTful APIs – Designing and developing maintainable APIs.
-
-What I Offer:
-High-Quality, Maintainable Code – Clear, extendable, and easy-to-maintain code.
-Fast Development – Delivering quality solutions within tight deadlines.
-Exceptional User Experiences – Intuitive, smooth designs that keep users engaged.
-Problem-Solving – Tackling complex technical challenges with creative solutions.
